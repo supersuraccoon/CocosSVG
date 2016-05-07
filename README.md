@@ -2,6 +2,8 @@
 
 <img src="./snapshot/cocos_svg.gif" width="70%"/>
 
+[A live demo is here.](http://supersuraccoon.github.io/CocosSVG)
+
 A Cocos2d-JS v3.9 based SVG Path Parser with following features:
 
 - Create `cc.Sprite` from `SVG` path command
